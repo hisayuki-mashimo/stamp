@@ -51,13 +51,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="210.8229"
-     inkscape:cy="169.45018"
+     inkscape:zoom="0.75166511"
+     inkscape:cx="147.13795"
+     inkscape:cy="224.09554"
      inkscape:document-units="px"
      inkscape:current-layer="g3163"
      showgrid="false"
-     inkscape:window-width="981"
+     inkscape:window-width="1129"
      inkscape:window-height="694"
      inkscape:window-x="-3"
      inkscape:window-y="-2"
@@ -644,19 +644,19 @@
     </g>
     <path
        style="fill:#ffd5d5;stroke:none;display:inline"
-       d="m 155.59611,166.85099 c -0.95585,3.50472 -2.05625,6.85992 -4.41072,9.43222 3.36083,7.93231 5.02878,14.40766 3.40733,21.51517 22.11723,-16.35708 33.9048,-6.11074 27.62312,9.35998 -10.78378,26.55866 -42.34224,59.76267 -68.40495,44.35612 -31.231403,4.26759 -47.284549,2.94513 -85.506521,3.71744 -34.2243903,7.55406 -82.289634,13.73296 -94.662204,-30.78247 -10.89832,-39.2112 -7.393725,-88.29006 12.254578,-120.0555 C -59.205235,91.6458 -52.74215,62.698432 -24.030529,28.158148 9.0670135,-11.658431 59.37519,-11.172921 83.795057,4.2303517 c 7.102567,-0.274178 22.596013,7.0718803 31.465283,17.3590203 10.44891,12.11931 21.4859,34.822776 17.75488,45.515694 8.26299,16.773561 10.06694,29.544176 3.39811,43.661644 22.04114,18.06147 22.65535,43.35175 19.18278,56.08428 z"
+       d="m 155.59611,166.85099 c -0.95585,3.50472 -2.05625,6.85992 -4.41072,9.43222 3.36083,7.93231 5.02878,14.40766 3.40733,21.51517 22.11723,-16.35708 33.9048,-6.11074 27.62312,9.35998 -10.78378,26.55866 -42.34224,59.76267 -68.40495,44.35612 -31.231403,4.26759 -47.284549,2.94513 -85.506521,3.71744 -34.2243903,7.55406 -82.289634,13.73296 -94.662204,-30.78247 -10.89832,-39.2112 -9.555592,-84.46522 10.092711,-116.23066 C -61.367102,95.470642 -52.74215,62.698432 -24.030529,28.158148 9.0670135,-11.658431 59.37519,-11.172921 83.795057,4.2303517 c 7.102567,-0.274178 22.772393,7.5422413 31.641663,17.8293813 10.44891,12.11931 20.48638,35.645906 16.75536,46.338824 7.43986,16.420791 8.2443,28.66225 3.10414,41.368633 22.04114,18.06147 23.77246,44.35127 20.29989,57.0838 z"
        id="path6682-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccscscsccs" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 83.79003,4.2415342 c 10.610364,0.6763536 22.57784,7.0196308 31.44712,17.3067788 10.44891,12.119303 19.59622,29.440487 17.84537,45.613908"
+       d="m 83.79003,4.2415342 c 10.610364,0.6763536 22.57784,7.0196308 31.44712,17.3067788 10.44891,12.119303 18.65549,30.381207 16.90464,46.554628"
        id="path6680"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 126.19645,55.595338 c 15.49646,23.156851 20.27989,45.560082 2.82393,66.937972 m 7.45091,-11.72874 c 23.7034,19.94549 22.26627,43.21466 19.02924,56.0091 -3.92692,15.52127 -23.04548,29.80758 -31.33762,18.17371 -5.88243,-8.25304 -5.68257,-24.92924 0.32253,-41.86857"
+       d="m 126.43163,57.241599 c 13.1683,21.826471 17.53843,46.104221 1.41285,64.821351 m 7.5097,-12.08151 c 23.7034,19.94549 23.38338,44.03779 20.14635,56.83223 -3.92692,15.52127 -23.04548,29.80758 -31.33762,18.17371 -5.88243,-8.25304 -5.68257,-24.92924 0.32253,-41.86857"
        id="path6682"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccssc" />
@@ -680,7 +680,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M -51.623775,110.01539 C -61.472992,93.528381 -52.879155,62.567613 -24.021866,28.14894 13.949635,-17.140436 74.818576,-12.715545 102.99831,19.361085 M -54.131738,104.40663 c -18.9412,33.44482 -23.16173,80.94501 -12.26341,120.15621 12.37257,44.51543 60.4378181,38.33653 94.662208,30.78247 38.22197,-0.77231 60.984847,-0.41679 92.21626,-4.68438 m -6.6875,0.85937 c 23.51195,15.5084 54.86354,-13.74106 68.42435,-44.3509 7.96467,-17.97808 -8.80613,-24.2748 -27.73989,-9.2768"
+       d="M -54.284534,111.67836 C -64.133751,95.191356 -52.879155,62.567613 -24.021866,28.14894 13.949635,-17.140436 74.818576,-12.715545 102.99831,19.361085 M -56.293605,107.89888 c -18.9412,33.44482 -20.999863,77.45276 -10.101543,116.66396 12.37257,44.51543 60.4378181,38.33653 94.662208,30.78247 38.22197,-0.77231 60.984847,-0.41679 92.21626,-4.68438 m -6.6875,0.85937 c 23.51195,15.5084 54.86354,-13.74106 68.42435,-44.3509 7.96467,-17.97808 -8.80613,-24.2748 -27.73989,-9.2768"
        id="path6692"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccscccsc" />
@@ -785,6 +785,72 @@
        id="path6704"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="吹き出し"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:70.97767639px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.74063"
+       y="66.621597"
+       id="text3367"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3369"
+         x="276.74063"
+         y="66.621597"
+         style="font-size:53.23325729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:HGMinchoE;-inkscape-font-specification:HGMinchoE">気</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.97767639px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.54755"
+       y="117.6247"
+       id="text3367-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3369-9"
+         x="276.54755"
+         y="117.6247"
+         style="font-size:53.23325729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:HGMinchoE;-inkscape-font-specification:HGMinchoE">長</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.97767639px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.54755"
+       y="170.11307"
+       id="text3367-8-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3369-9-4"
+         x="276.54755"
+         y="170.11307"
+         style="font-size:53.23325729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:HGMinchoE;-inkscape-font-specification:HGMinchoE">に</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.97767639px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.54755"
+       y="224.53377"
+       id="text3367-8-25"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3369-9-8"
+         x="276.54755"
+         y="224.53377"
+         style="font-size:53.23325729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:HGMinchoE;-inkscape-font-specification:HGMinchoE">待</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.97767639px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="276.54755"
+       y="274.80405"
+       id="text3367-8-2-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3369-9-4-2"
+         x="276.54755"
+         y="274.80405"
+         style="font-size:53.23325729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:HGMinchoE;-inkscape-font-specification:HGMinchoE">つ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -51,16 +51,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2032812"
-     inkscape:cx="162.19002"
-     inkscape:cy="167.76776"
+     inkscape:zoom="0.96406257"
+     inkscape:cx="156.03507"
+     inkscape:cy="104.01326"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g3163"
      showgrid="false"
      inkscape:window-width="1030"
      inkscape:window-height="700"
-     inkscape:window-x="39"
-     inkscape:window-y="-5"
+     inkscape:window-x="428"
+     inkscape:window-y="3"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -662,10 +662,10 @@
        sodipodi:nodetypes="cscssc" />
     <path
        style="fill:#ffd5d5;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -0.369395,211.52847 c -40.970859,3.03489 -1.3510941,59.82289 41.742701,59.77025 32.275696,-0.0394 35.830335,-13.69514 25.613669,-27.95767 C 55.205782,226.89443 25.11261,209.64091 -0.369395,211.52847 z"
+       d="m 35.253845,214.98215 c -15.188144,-14.6706 -40.6833497,-19.82597 -51.61205,-17.67176 -40.307504,7.94525 7.9885355,71.12976 51.026068,68.92779 21.043618,-1.07668 32.707709,-11.44263 25.058173,-24.97169"
        id="path3176"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssss" />
+       sodipodi:nodetypes="cssc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 105.18326,134.42225 c -32.654948,11.12382 -52.338442,26.1125 -69.266593,33.74817"
@@ -766,9 +766,10 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="紙"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:#fefefe;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;fill-opacity:1"
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="M 14.265197,42.745607 148.54456,37.00254 c 3.48159,53.685909 3.41662,109.78284 19.20702,162.10111 -42.58699,11.14904 -76.445039,15.19647 -137.042383,17.98864 z"
        id="path3200"
        inkscape:connector-curvature="0"
@@ -785,7 +786,7 @@
          y="115.7823"
          x="39.423634"
          id="tspan3659"
-         sodipodi:role="line">有</tspan></text>
+         sodipodi:role="line">勝</tspan></text>
     <text
        transform="matrix(0.99682347,-0.0796428,0.0796428,0.99682347,0,0)"
        sodipodi:linespacing="125%"
@@ -798,13 +799,13 @@
          y="193.23337"
          x="41.320732"
          id="tspan3659-5"
-         sodipodi:role="line">給</tspan></text>
+         sodipodi:role="line">訴</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3023"
        d="M 13.904186,40.201726 148.38584,33.995911 c 2.12423,-0.221125 2.49951,5.175408 0.25285,5.309871 L 14.462893,45.012899 c -1.940246,0.09481 -2.09582,-4.771884 -0.558707,-4.811173 z"
-       style="fill:#fefefe;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
