@@ -14,7 +14,7 @@
    id="svg3172"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="[20.満悦].svg">
+   sodipodi:docname="[40.観察].svg">
   <defs
      id="defs3174" />
   <sodipodi:namedview
@@ -24,13 +24,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96277105"
-     inkscape:cx="129.89462"
-     inkscape:cy="174.2021"
+     inkscape:zoom="1.478004"
+     inkscape:cx="185.36406"
+     inkscape:cy="143.06031"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1260"
+     inkscape:window-width="769"
      inkscape:window-height="698"
      inkscape:window-x="-2"
      inkscape:window-y="-5"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,14 +99,14 @@
        id="g3738">
       <path
          style="fill:#fffff8;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-         d="m 118.83134,214.68279 c -21.536631,5.83516 -11.49573,-21.35131 -0.18707,-40.22952"
+         d="m 118.83134,214.68279 c -21.536631,5.83516 -11.49573,-21.35131 -0.18707,-40.22952 l 56.5375,13.38504 z"
          id="path6382"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cccc" />
       <path
          sodipodi:nodetypes="cscc"
          style="fill:#fffff8;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-         d="m 117.44548,204.48106 c -5.01388,48.78328 40.20361,71.929 80.92891,64.63773 35.69747,-6.3911 52.1658,-25.00719 62.33553,-39.29175 -13.92242,-3.02552 -10.27967,-27.94934 -15.00646,-38.35478"
+         d="m 117.44548,204.48106 c -5.01388,48.78328 40.20361,71.929 80.92891,64.63773 35.69747,-6.3911 52.1658,-25.00719 62.33553,-39.29175 -20.01171,-7.08505 1.22233,-23.21322 -25.83187,-64.06513"
          id="path6384"
          inkscape:connector-curvature="0" />
       <path
