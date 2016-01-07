@@ -14,7 +14,7 @@
    id="svg3172"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="[23.反動].svg"
+   sodipodi:docname="[24.後悔].svg"
    inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\svg\[23.反動].png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,13 +27,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6086128"
-     inkscape:cx="192.83926"
-     inkscape:cy="162.15978"
+     inkscape:zoom="1.2685356"
+     inkscape:cx="144.86594"
+     inkscape:cy="171.04288"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1098"
+     inkscape:window-width="1220"
      inkscape:window-height="698"
      inkscape:window-x="-5"
      inkscape:window-y="-5"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,8 +55,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-732.36218)"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="M 10,1042.3622 360,742.36211"
@@ -96,7 +96,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="豚">
+     inkscape:label="豚"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g9532"
@@ -362,7 +363,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="吹き出し"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        transform="translate(0.17596121,0.54875505)"
        style="display:inline"
@@ -407,7 +409,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="レイヤー"
+     inkscape:label="枠面"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:#ffffff;stroke:none;display:inline"
