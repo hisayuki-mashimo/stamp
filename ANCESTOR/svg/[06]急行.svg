@@ -14,8 +14,8 @@
    id="svg3172"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="[28]急行.svg"
-   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\svg\BUTAS\[22.成功].png"
+   sodipodi:docname="[06]急行.svg"
+   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\ANCESTOR\org\[06]急行.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58674937"
-     inkscape:cx="-84.513485"
-     inkscape:cy="237.62909"
+     inkscape:zoom="1.2583024"
+     inkscape:cx="194.60419"
+     inkscape:cy="118.35406"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1100"
      inkscape:window-height="698"
@@ -221,11 +221,6 @@
        sodipodi:ry="8.2739687"
        d="m 226.94315,298.72409 a 91.013657,8.2739687 0 1 1 -182.027317,0 91.013657,8.2739687 0 1 1 182.027317,0 z"
        transform="matrix(-1.0241147,0,0,1.0241147,285.01326,-4.7567358)" />
-    <path
-       style="fill:#22002b;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 12.068429,168.98698 c 0.908279,-9.34384 11.672732,-18.02156 18.197131,-19.155 6.417746,-1.11492 15.794816,-6.97067 20.732953,-11.22839 5.487667,5.63889 8.438156,13.2725 9.498125,20.17313 7.159862,-0.42454 16.103502,5.12037 25.189505,5.69141 -5.039945,9.0107 -7.777309,19.30264 -18.081922,25.38373 l 7.95836,24.95405 c -9.97579,-0.59106 -19.585985,-0.29607 -33.085593,-9.42589 -4.051154,6.51428 -10.374555,10.89994 -20.19942,12.00548 -0.469305,-10.98237 -0.106346,-20.80534 -2.421028,-25.34997 -3.114965,-6.11592 -9.004274,-10.53867 -7.788111,-23.04855 z"
-       id="path5502"
-       inkscape:connector-curvature="0" />
     <g
        id="g6623"
        transform="matrix(0.9994678,-0.03262095,0.03262095,0.9994678,4.399198,27.654013)">
@@ -286,6 +281,20 @@
        id="path8156-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <g
+       id="g3594">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5502"
+         d="m 12.068429,168.98698 c 0.908279,-9.34384 11.672732,-18.02156 18.197131,-19.155 6.417746,-1.11492 15.794816,-6.97067 20.732953,-11.22839 5.487667,5.63889 8.438156,13.2725 9.498125,20.17313 7.159862,-0.42454 16.103502,5.12037 25.189505,5.69141 -5.039945,9.0107 -7.777309,19.30264 -18.081922,25.38373 l 7.95836,24.95405 c -9.97579,-0.59106 -19.585985,-0.29607 -33.085593,-9.42589 -4.051154,6.51428 -10.374555,10.89994 -20.19942,12.00548 -0.469305,-10.98237 -0.106346,-20.80534 -2.421028,-25.34997 -3.114965,-6.11592 -9.004274,-10.53867 -7.788111,-23.04855 z"
+         style="fill:#22002b;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3592"
+         d="m 17.139566,168.1322 c -6.139781,-4.88245 -4.72099,-10.93179 0.746513,-16.60171"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

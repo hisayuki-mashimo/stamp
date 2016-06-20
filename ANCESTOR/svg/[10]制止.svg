@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="[10]制止.svg"
-   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\ANCESTOR\[10]制止.png"
+   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\ANCESTOR\org\[10]制止.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37923505"
-     inkscape:cx="298.13483"
-     inkscape:cy="-56.755994"
+     inkscape:zoom="1.1543436"
+     inkscape:cx="185.95632"
+     inkscape:cy="102.36334"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1130"
      inkscape:window-height="700"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2105,7 +2105,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:3"
-       d="m 55.93567,14.1107 205.08924,0 c 14.39154,0 25.97752,11.58598 25.97752,25.97753 l 0,28.24943 c 0,14.39155 -11.58598,25.97753 -25.97752,25.97753 l -64.87041,0 c -21.29438,0 -11.72735,20.32582 -6.94866,30.60349 -16.49462,-11.54286 -20.124,-30.60349 -37.87021,-30.60349 l -95.39996,0 c -14.391549,0 -25.977526,-11.58598 -25.977526,-25.97753 l 0,-28.24943 c 0,-14.39155 11.585977,-25.97753 25.977526,-25.97753 z"
+       d="m 55.93567,14.1107 205.08924,0 c 14.39154,0 25.97752,11.58598 25.97752,25.97753 l 0,28.24943 c 0,14.39155 -11.58598,25.97753 -25.97752,25.97753 l -64.87041,0 c -17.39606,0 -6.09644,13.82862 2.58057,21.94056 -19.9598,-12.40916 -29.65323,-21.94056 -47.39944,-21.94056 l -95.39996,0 c -14.391549,0 -25.977526,-11.58598 -25.977526,-25.97753 l 0,-28.24943 c 0,-14.39155 11.585977,-25.97753 25.977526,-25.97753 z"
        id="rect13841"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssscsssss" />
