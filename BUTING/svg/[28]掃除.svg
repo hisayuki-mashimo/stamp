@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0516854"
-     inkscape:cx="191.33296"
-     inkscape:cy="113.70075"
+     inkscape:zoom="1"
+     inkscape:cx="276.91605"
+     inkscape:cy="123.98396"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -106,10 +106,10 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:none;display:inline"
-       d="m 14.195026,142.04278 222.516454,2.77579 76.57332,89.96122 0.79209,36.72218 19.18361,4.4031 -48.26886,11.71587 31.51682,9.79863 -17.2603,-0.85351 -22.41668,-3.84586 -72.12454,0.38594 c -7.39339,-0.10673 -37.65063,0.86931 -49.39143,-10.25268 l -54.81532,-6.81248 -46.600952,-7.56974 16.677049,-2.64666 -39.757826,-5.46443 -1.312006,-27.55473 -16.097478,-2.76316 z"
+       d="m 14.195026,142.04278 222.516454,2.77579 76.57332,89.96122 0.79209,36.72218 19.18361,4.4031 -48.26886,11.71587 34.43275,10.09835 -19.07891,-1.30999 -23.514,-3.6891 -72.12454,0.38594 c -7.39339,-0.10673 -42.60038,-0.5449 -54.34118,-11.66689 -19.9823,4.92078 -36.73778,4.56995 -48.76825,-8.0632 l -55.659431,-9.00352 c -4.155858,0.12677 -10.852917,-0.15045 -17.314266,-2.44477 l 0.882642,-29.12234 -16.097478,-2.76316 z"
        id="path15090-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccc" />
     <g
        id="g18482"
        transform="matrix(1.0320661,0.01287454,-0.00918155,1.0278896,3.3178804,-10.214509)"
@@ -2395,6 +2395,13 @@
          d="m 238.89675,212.83939 6.75877,-0.57431 -0.0789,8.16926 -6.92391,0.88455 z"
          style="fill:#ececec;stroke:#000000;stroke-width:1.9416852;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
     </g>
+    <rect
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect10590"
+       width="332.09595"
+       height="40.348106"
+       x="10.641259"
+       y="39.336792" />
   </g>
   <g
      inkscape:groupmode="layer"
