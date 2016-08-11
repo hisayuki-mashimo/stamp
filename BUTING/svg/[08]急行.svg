@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="[02]運転.svg"
-   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\BUTING\[02]運転.png"
+   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\BUTING\[08]急行.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,13 +28,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0664063"
-     inkscape:cx="39.955868"
-     inkscape:cy="118.88936"
+     inkscape:zoom="1.1372223"
+     inkscape:cx="170.05566"
+     inkscape:cy="170.10843"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1032"
+     inkscape:window-width="1189"
      inkscape:window-height="695"
      inkscape:window-x="-5"
      inkscape:window-y="-2"
@@ -646,7 +646,8 @@
        transform="scale(-1,1)"
        style="stroke:#ff0000;stroke-width:0.5" />
     <g
-       id="g6337">
+       id="g6337"
+       transform="translate(-1.318479e-6,0)">
       <path
          sodipodi:nodetypes="cscsc"
          inkscape:connector-curvature="0"
@@ -691,12 +692,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <g
-       id="g6326">
+       id="g6326"
+       transform="translate(-1.318479e-6,0)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path5091-2-4-8-0-0-4"
-         d="m 229.71089,167.12474 -73.95261,-45.0356 c -13.04378,2.88972 -21.0234,18.49537 -15.46858,28.92752 l -1.66281,15.22558"
+         d="m 229.71089,167.12474 -72.08726,-45.96828 c -13.04378,2.88972 -22.88875,19.42805 -17.33393,29.8602 l -1.66281,15.22558"
          style="fill:#ffd5d5;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="csc"
@@ -708,43 +710,43 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5093-4-2-45-3-8-3"
-         d="m 143.01343,144.84976 c -6.09178,11.00219 -9.63837,25.66122 3.73265,38.27415"
+         d="m 142.85798,145.93788 c -7.49079,11.77942 -8.08391,26.43845 3.8881,37.18603"
          style="fill:#ffd5d5;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5095-5-3-5-6-8-2"
-         d="m 152.83325,139.9287 1.06702,6.31413"
+         d="m 152.06383,139.7913 1.06702,6.31413"
          style="fill:none;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5097-5-2-1-1-2-2"
-         d="m 170.08472,142.02565 -5.20987,6.55276"
+         d="m 171.27218,142.51475 -5.45913,5.38806"
          style="fill:none;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="csc"
          inkscape:connector-curvature="0"
          id="path5099-1-2-7-5-4-1"
-         d="m 202.51631,120.07045 c 26.27069,8.05275 26.84069,31.18818 16.1447,43.31826 -4.00484,4.54178 -15.84539,-13.08597 -24.80389,-19.95219"
+         d="m 202.51631,120.07045 c 26.27069,8.05275 27.48766,31.79089 16.1447,43.31826 -5.98334,6.08062 -15.84539,-13.08597 -24.80389,-19.95219"
          style="fill:#ffd5d5;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="ssssss"
          inkscape:connector-curvature="0"
          id="path5101-7-1-1-4-5-6"
-         d="m 168.75972,177.60304 c -7.65588,-2.21342 -12.81068,-2.46419 -16.72634,-2.34383 -4.70797,0.14463 -6.18049,-7.08863 -5.82388,-12.67227 0.35184,-5.50799 3.15571,-13.53132 9.55693,-13.23585 6.76897,0.3124 14.07492,7.60533 17.92368,14.86289 4.34122,8.18619 1.66243,15.29512 -4.93039,13.38906 z"
+         d="m 166.89436,177.75849 c -7.65588,-2.21342 -12.81068,-2.46419 -16.72634,-2.34383 -4.70797,0.14463 -6.02504,-7.24408 -5.66843,-12.82772 0.35184,-5.50799 3.93294,-13.53132 10.33416,-13.23585 6.76897,0.3124 14.07492,7.60533 17.92368,14.86289 4.34122,8.18619 0.72975,15.45057 -5.86307,13.54451 z"
          style="fill:#ffaaaa;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="sss"
          inkscape:connector-curvature="0"
          id="path5105-1-6-1-2-5-8"
-         d="m 165.58731,170.16108 c -0.65519,2.54439 -6.98739,-12.59942 -5.61089,-12.53432 1.56254,0.0739 7.00659,7.11419 5.61089,12.53432 z"
+         d="m 164.26601,170.16108 c -0.65519,2.54439 -6.98739,-12.59942 -5.61089,-12.53432 1.56254,0.0739 7.00659,7.11419 5.61089,12.53432 z"
          style="fill:#000000;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <path
          sodipodi:nodetypes="sss"
          inkscape:connector-curvature="0"
          id="path5107-1-8-52-0-1-5"
-         d="m 154.07092,157.07694 c 1.02102,-0.43384 1.37486,13.66534 0.16401,12.20062 -2.68786,-3.25135 -1.4019,-11.67465 -0.16401,-12.20062 z"
+         d="m 152.74962,157.07694 c 1.02102,-0.43384 1.37486,13.66534 0.16401,12.20062 -2.68786,-3.25135 -1.4019,-11.67465 -0.16401,-12.20062 z"
          style="fill:#000000;stroke:#000000;stroke-width:1.87904167;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
     </g>
     <path
@@ -754,7 +756,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <g
-       id="g6350">
+       id="g6350"
+       transform="translate(-1.318479e-6,0)">
       <path
          sodipodi:nodetypes="csc"
          inkscape:connector-curvature="0"
@@ -810,7 +813,8 @@
          style="fill:none;stroke:#000000;stroke-width:4.9182415" />
     </g>
     <g
-       id="g6345">
+       id="g6345"
+       transform="translate(-1.318479e-6,0)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -1236,7 +1240,7 @@
          id="tspan6770"
          x="82.628853"
          y="70.930664"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">運転中</tspan></text>
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">急行中</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
