@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1445312"
-     inkscape:cx="263.62158"
-     inkscape:cy="166.92174"
+     inkscape:zoom="1.1497535"
+     inkscape:cx="70.364657"
+     inkscape:cy="81.253043"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1098"
      inkscape:window-height="698"
@@ -369,7 +369,7 @@
          sodipodi:cy="963.11493"
          sodipodi:rx="9.4877062"
          sodipodi:ry="9.4877062"
-         d="m 688.99454,963.11493 c 0,5.23991 -4.24779,9.48771 -9.4877,9.48771 -5.23992,0 -9.48771,-4.2478 -9.48771,-9.48771 0,-5.23992 4.24779,-9.48771 9.48771,-9.48771 5.23991,0 9.4877,4.24779 9.4877,9.48771 z"
+         d="m 688.99454,963.11493 a 9.4877062,9.4877062 0 1 1 -18.97541,0 9.4877062,9.4877062 0 1 1 18.97541,0 z"
          transform="matrix(-0.83944703,0,0,0.83944703,1613.6278,-345.1519)" />
     </g>
     <g
@@ -710,7 +710,7 @@
          x="25.641621"
          y="290.3801"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fefefe;fill-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic"
-         id="tspan3151-4">怒らせてしまった!</tspan></text>
+         id="tspan3151-4">怒らせてしまった !</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

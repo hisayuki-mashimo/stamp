@@ -14,8 +14,8 @@
    id="svg3172"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="[06]無双.svg"
-   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\LEGEND\[06]無双.png"
+   sodipodi:docname="[02]無双.svg"
+   inkscape:export-filename="C:\Users\執安\Desktop\資料\臨時\LEGEND\[02]無双.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5082377"
-     inkscape:cx="20.896403"
-     inkscape:cy="102.18626"
+     inkscape:zoom="0.80566994"
+     inkscape:cx="12.846946"
+     inkscape:cy="342.37339"
      inkscape:document-units="px"
-     inkscape:current-layer="g7547"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1284"
      inkscape:window-height="696"
@@ -99,6 +99,36 @@
      inkscape:label="兵士1"
      style="display:inline"
      sodipodi:insensitive="true">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       id="path3563"
+       sodipodi:cx="228.19241"
+       sodipodi:cy="83.908623"
+       sodipodi:rx="27.207556"
+       sodipodi:ry="11.40962"
+       d="m 255.39997,83.908623 a 27.207556,11.40962 0 1 1 -54.41511,0 27.207556,11.40962 0 1 1 54.41511,0 z"
+       transform="translate(-7.0213048,-3.5106524)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       id="path3559"
+       sodipodi:cx="300.59961"
+       sodipodi:cy="134.81308"
+       sodipodi:rx="48.7103"
+       sodipodi:ry="28.085218"
+       d="m 349.30991,134.81308 a 48.7103,28.085218 0 1 1 -97.4206,0 48.7103,28.085218 0 1 1 97.4206,0 z"
+       transform="matrix(0.90560951,0.11619616,-0.11619616,0.90560951,31.593792,-6.5819304)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       id="path3561"
+       sodipodi:cx="85.133324"
+       sodipodi:cy="145.34505"
+       sodipodi:rx="53.537449"
+       sodipodi:ry="21.063915"
+       d="m 138.67077,145.34505 a 53.537449,21.063915 0 1 1 -107.074895,0 53.537449,21.063915 0 1 1 107.074895,0 z"
+       transform="matrix(0.81409232,-0.18644586,0.33488776,1.080821,-37.191549,2.5963704)" />
     <g
        id="g5093-9"
        transform="matrix(0.45652887,-0.06656656,0.06656656,0.45652887,-14.344325,28.478108)"
@@ -605,6 +635,12 @@
      inkscape:label="豚"
      style="display:inline"
      sodipodi:insensitive="true">
+    <path
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 285.37022,221.58195 -63.46607,-30.09647 c -2.79251,17.04197 -22.26842,32.01277 -47.44814,35.11982 -28.74427,3.5469 -54.03671,-9.7098 -56.49225,-29.60968 -2.45554,-19.89988 18.85568,-38.90724 47.59994,-42.45414 14.45501,-1.78367 28.03708,0.68215 38.28092,6.10531 l 104.46883,21.59982 27.53271,29.46667 z"
+       id="path3556"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssscccc" />
     <g
        id="g13511"
        style="stroke-width:2">
