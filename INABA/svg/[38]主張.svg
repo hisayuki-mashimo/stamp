@@ -204,10 +204,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="157.92483"
-     inkscape:cy="111.45859"
+     inkscape:cx="86.17483"
+     inkscape:cy="191.45859"
      inkscape:document-units="px"
-     inkscape:current-layer="g65306"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1872"
      inkscape:window-height="988"
@@ -225,7 +225,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-page="false"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -280,6 +280,17 @@
        id="path3018"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="背景">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,320 H 370 V 0 H 0 Z"
+       id="path629"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
